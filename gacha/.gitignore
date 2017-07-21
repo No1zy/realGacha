@@ -1,0 +1,10 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+
+!/logs/empty
+!/tmp/cache/views/empty
+!/tmp/cache/persistent/empty
+!/tmp/cache/model/empty
+
